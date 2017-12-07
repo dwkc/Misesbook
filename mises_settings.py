@@ -11,7 +11,7 @@ class Settings():
 
         self.download_folder = "G:\docs\mises_books" # default download folder
         self.reporting_folder = "G:\docs\mises_reporting" # default reporting/logging folder
-        self.verbose = True
+        self.verbose = False
 
         # Settings for features yet to be added
 
